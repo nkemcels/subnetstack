@@ -1,10 +1,10 @@
 # Subnet Stack
 
 
-IPV4 subnetting is a very important factor not to ignore these days when it comes to networking. This is as a result of the limited availability of IPV4 addresses. 
+IPV4 subnetting is a very important concept not to ignore these days when it comes to networking. This is as a because of the limited availability of IPV4 addresses in the internetworking world today. 
 Despite its importance, so many students starting off in this field find it very difficult to grab its concepts.
     Subnet Stack has been developed to address this problem. It provides useful features which enables students to easily understand the concepts of IPV4 addressing and subnetting.
-Subnet Stacks main features are presented below:
+Subnet Stack's main features are presented below:
 
 ### Main Features!
 
@@ -15,7 +15,7 @@ Subnet Stacks main features are presented below:
   
 
 ### What Subnet Stack does not support
-  - It does not provide support for IPV6, only IPV4. This functionality might never be supported by Subnet Stack since the problem it addresses (subnetting due to shortage of IPV4 addresses) is already resolved in IPV6 (theoretically unlimited number of IP addresses hence no need for subnetting).
+  - It does not provide support for IPV6, only IPV4. This functionality might never be supported by Subnet Stack since the problem it addresses (subnetting due to shortage of IPV4 addresses) is already resolved in IPV6 which has a theoretically unlimited number of IP addresses hence no need for subnetting.
 
 
 ### How to run the software
